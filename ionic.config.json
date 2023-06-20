@@ -1,0 +1,7 @@
+{
+  "name": "code-swag-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
